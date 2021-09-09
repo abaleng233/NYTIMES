@@ -8,6 +8,9 @@ A simple android app to hit the NY Times Most Popular Articles API and show a li
 4. UI & functions tested using JUnit & espress
 5. NDK/C++ secure api key and urls
 
+#PROJECT RUN
+This project can be run in android simulator and android devices
+
 ## Screens
 
 <b>Main article list Screen</b>
